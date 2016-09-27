@@ -1,8 +1,8 @@
 public class SheJiao
 {
 	public static void main(String args[]){
-		System.out.printlnI("Ö§³ÖÔÚÏßÖ±²¥");
-		System.out.printlnI("¶«İ¸Ê§×ãÅ®Éú£¬·ÑÓÃ²»·Ö³É");
-
+		System.out.printlnI("æ”¯æŒåœ¨çº¿ç›´æ’­");
+		System.out.printlnI("ä¸œèå¤±è¶³å¥³ç”Ÿï¼Œè´¹ç”¨ä¸åˆ†æˆ");
+		System.out.println("æˆ‘æ„¿ä»¥èº«ä½œåˆ™ï¼Œæ‹¯æ•‘å¤±è¶³å¥³ç”Ÿ");
 	}
 }
