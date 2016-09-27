@@ -1,8 +1,9 @@
 public class SheJiao
 {
 	public static void main(String args[]){
-		System.out.printlnI("支持在线直播");
-		System.out.printlnI("东莞失足女生，费用不分成");
+		System.out.printlnI("鏀寔鍦ㄧ嚎鐩存挱");
+		System.out.printlnI("涓滆帪澶辫冻濂崇敓锛岃垂鐢ㄤ笉鍒嗘垚");
+		System.out.println("鑰佸笀浣犲ソ锛屾垜鏄▏淇忕幉鐝戝皬榛勮搲");
 
 	}
 }
